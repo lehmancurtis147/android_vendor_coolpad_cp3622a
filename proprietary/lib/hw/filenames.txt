@@ -1,0 +1,9 @@
+audio.a2dp.default.so	   filenames.txt	  memtrack.msm8909.so
+audio.primary.default.so   gps.default.so	  power.default.so
+audio.primary.msm8909.so   gralloc.default.so	  power.qcom.so
+audio.r_submix.default.so  gralloc.msm8909.so	  sensors.msm8909.so
+audio.usb.default.so	   hwcomposer.msm8909.so  sensors.qcom.so
+audio_policy.default.so    keystore.default.so	  vibrator.default.so
+bluetooth.default.so	   keystore.qcom.so	  wbc_hal.default.so
+camera.msm8909.so	   lights.msm8909.so
+copybit.msm8909.so	   local_time.default.so
