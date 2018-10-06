@@ -3,7 +3,7 @@
 #
 ####################################################
 #Set the current spec as TMO#
-persist.env.spec=TMO
+#persist.env.spec=TMO
 
 #for emergence call list(split by ',')
 ril.ecclist=911,*911,#911,112,08,110,999,118,119,112
@@ -34,19 +34,19 @@ persist.cne.logging.qxdm=3974
 persist.cne.nsrm.bkg.evt=16371
 
 #Set gsm.operator.iso-country name#
-gsm.operator.iso-country=br
+gsm.operator.iso-country=us
 
 #Set gsm.sim.operator.iso-country name#
-gsm.sim.operator.iso-country=br
+gsm.sim.operator.iso-country=us
 
 #Set the SIM model for DSDS. ssss - Single model, dsds - Dual model.#
-#persist.radio.multisim.config=ssss
+persist.radio.multisim.config=ssss
 
 #Set ril.subscription.type empty.#
 ril.subscription.types=
 
 #Set usb property
-#persist.sys.usb.config=mtp,adb
+persist.sys.usb.config=mtp,adb
 
 #Set default data roaming false.#
 ro.com.android.dataroaming=false

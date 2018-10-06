@@ -4005,14 +4005,16 @@ Qualcomm Technologies Proprietary and Confidential.
       type="mms"
   />
 
-  <apn carrier="ATT Nextgenphone"
+  <apn carrier="ATT WAP"
       mcc="310"
       mnc="410"
-      apn="nxtgenphone"
+      apn="wap.cingular"
+      proxy="wireless.cingular.com"
       port="80"
-      mmsc="http://mmsc.mobile.att.net"
-      mmsproxy="proxy.mobile.att.net"
-      type="default,supl,mms,,hipri,fota"
+      server="cingulargprs.com"
+      mmsc="http://mmsc.cingular.com/"
+      mmsproxy="wireless.cingular.com"
+      type="default,supl,mms"
   />
 
   <apn carrier="CBW MMS"
