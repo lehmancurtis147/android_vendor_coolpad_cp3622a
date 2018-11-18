@@ -130,6 +130,7 @@ PRODUCT_COPY_FILES += \
     vendor/coolpad/cp3622a/proprietary/app/shutdownlistener/shutdownlistener.apk:system/app/shutdownlistener/shutdownlistener.apk \
     vendor/coolpad/cp3622a/proprietary/priv-app/com.qualcomm.location/com.qualcomm.location.apk:system/priv-app/com.qualcomm.location/com.qualcomm.location.apk \
     vendor/coolpad/cp3622a/proprietary/bin/thermal-engine:system/bin/thermal-engine \
+    vendor/coolpad/cp3622a/proprietary/app/Bluetooth/Bluetooth.apk:system/app/Bluetooth/Bluetooth.apk \
     vendor/coolpad/cp3622a/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/coolpad/cp3622a/proprietary/bin/location-mq:system/bin/location-mq \
     vendor/coolpad/cp3622a/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
