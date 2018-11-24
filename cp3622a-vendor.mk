@@ -36,7 +36,7 @@ PRODUCT_PACKAGES += \
     libloc_ds_api
 
 PRODUCT_PACKAGES += \
-#    libHevcSwDecoder \
+    libHevcSwDecoder \
     libtime_genoff
 
 $(call inherit-product, vendor/coolpad/cp3622a/cp3622a-vendor-blobs.mk)
